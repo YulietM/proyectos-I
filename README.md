@@ -17,6 +17,9 @@ Posicionado en el directorio raiz ejecutar:
 
 `basics/tarea-1/funciones-matematicas.js`
 
+Modificar las funciones dentro del archivo especificado para que cumpla lo esperado, Ejemplo: 
+- La funcion factorial(numero) , debe retornar el factorial de un numero , debe hacerse la logia para tal proposito
+
 ### Verificar de funcionamiento
 
 Para verificar que funciona se debe correr las pruebas unitarias al correr los comandos
